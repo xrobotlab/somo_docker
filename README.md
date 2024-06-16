@@ -1,0 +1,2 @@
+# somo_docker
+SoMoのDockerfile
